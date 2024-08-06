@@ -20,7 +20,7 @@ Sauda is a Spring Boot application for creating and managing advertisements, sim
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/<your-github-username>/sauda.git
+    git clone https://github.com/aloneen/sauda.git
     cd sauda
     ```
 
@@ -90,7 +90,7 @@ Sauda - это приложение на Spring Boot для создания и 
 
 1. **Клонируйте репозиторий**:
     ```sh
-    git clone https://github.com/<your-github-username>/sauda.git
+    git clone https://github.com/aloneen/sauda.git
     cd sauda
     ```
 
